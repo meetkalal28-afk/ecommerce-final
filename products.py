@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-products = [shirt, shoes, belt]
-=======
-products = [shirt, shoes, watch]
->>>>>>> feature-cart
+products = ["shirt", "shoes", "watch", "belt"]
