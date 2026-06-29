@@ -1,1 +1,1 @@
-products = [shirt, shoes]
+products = [shirt, shoes, watch]
